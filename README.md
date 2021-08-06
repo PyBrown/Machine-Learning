@@ -16,4 +16,5 @@ This repository contains notebooks on various unsupervised and supervised machin
 ## Feedback
 Suggestions and comments are welcome and appreciated.
 
-![Figure 1](https://user-images.githubusercontent.com/59252183/128536548-ed969c6a-7ebe-43ac-bfac-36818aea6870.jpg){:height="50%" width="50%"}
+{:refdef: style="width: 10px; height: 10px"}
+[![Figure 1](https://user-images.githubusercontent.com/59252183/128536548-ed969c6a-7ebe-43ac-bfac-36818aea6870.jpg)]
