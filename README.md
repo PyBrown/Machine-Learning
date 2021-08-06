@@ -1,4 +1,3 @@
-![Figure 1](https://user-images.githubusercontent.com/59252183/128536548-ed969c6a-7ebe-43ac-bfac-36818aea6870.jpg)
 # Machine-Learning
 Machine learning techniques applied to subsurface data.
 
@@ -16,3 +15,5 @@ This repository contains notebooks on various unsupervised and supervised machin
 
 ## Feedback
 Suggestions and comments are welcome and appreciated.
+
+![Figure 1](https://user-images.githubusercontent.com/59252183/128536548-ed969c6a-7ebe-43ac-bfac-36818aea6870.jpg){:height="50%" width="50%"}
