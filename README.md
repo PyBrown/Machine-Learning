@@ -7,7 +7,7 @@ This repository contains notebooks on various unsupervised and supervised machin
 1.	Unsupervised Seismic Facies Clustering (Statistical Methods)
 2.	Unsupervised Seismic Facies Clustering (Neural Networks)
 
-<img src='Unsupervised Clustering Images/Cluster Labels.jpg' width=40% height=40%> 
+<img src='Unsupervised Clustering Images/Cluster Labels.jpg' width=50% height=50%> 
 
 ## Upcoming
 1.	Supervised Well Property Regression (Statistical Methods)
