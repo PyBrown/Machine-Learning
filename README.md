@@ -6,6 +6,10 @@ This repository contains notebooks on various unsupervised and supervised machin
 ## Contents
 1.	Unsupervised Seismic Facies Clustering (Statistical Methods)
 2.	Unsupervised Seismic Facies Clustering (Neural Networks)
+3.	PVT Bubblepoint Pressure Prediction (Regression - Statistical Methods)
+4.	Well Log Porosity Prediction (Regression - Statistical Methods)
+5.	Shell (In)Direct from the Source Challenge (Classification - Statistical Methods)
+6.	AERA Steam Optimization and Other Oddities Challenge (Regression - Statistical Methods)
 
 <img src='Unsupervised Clustering Images/Cluster Labels.jpg' width=40% height=40%> 
 
